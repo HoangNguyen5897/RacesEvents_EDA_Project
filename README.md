@@ -3,7 +3,7 @@
 * The dataset contains 7,461,226 ultra-marathon race records from 1,641,168 unique athletes.
 
 # Objective and Approach
-* I will be using different Python libraries, such as numpy, pandas to clean and manipulate data
+* I will be using different Python libraries, such as numpy, pandas to clean and manipulate data, such as detect missing values, correct data types, etc.
 * Then I will extract the data of the year 2019, with the race distances of 50km and 50mi to analyse and extract the insights.
 * Finally, with the use of seaborn library, a number of different visualizations were created to represent different insights with the data.
 
